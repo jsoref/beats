@@ -35,7 +35,7 @@ type AppendRequest struct {
 
 type Recv struct {
 	Appendrequest AppendRequest
-	Bandwithrate  float64 `json:"recvBandwithRate"`
+	Bandwidthrate  float64 `json:"recvBandwidthRate"`
 	Pkgrate       float64 `json:"recvPkgRate"`
 }
 
@@ -45,7 +45,7 @@ type sendAppendRequest struct {
 
 type Send struct {
 	AppendRequest sendAppendRequest
-	BandwithRate  float64 `json:"sendBandwidthRate"`
+	BandwidthRate  float64 `json:"sendBandwidthRate"`
 	PkgRate       float64 `json:"sendPkgRate"`
 }
 
@@ -74,14 +74,14 @@ func eventMapping(content []byte) common.MapStr {
 			"appendrequest": common.MapStr{
 				"count": data.Recv.Appendrequest.Count,
 			},
-			"bandwithrate": data.Recv.Bandwithrate,
+			"bandwidthrate": data.Recv.Bandwidthrate,
 			"pkgrate":      data.Recv.Pkgrate,
 		},
 		"send": common.MapStr{
 			"appendrequest": common.MapStr{
 				"count": data.Send.AppendRequest.Cnt,
 			},
-			"bandwithrate": data.Send.BandwithRate,
+			"bandwidthrate": data.Send.BandwidthRate,
 			"pkgrate":      data.Send.PkgRate,
 		},
 		"starttime": data.StartTime,
