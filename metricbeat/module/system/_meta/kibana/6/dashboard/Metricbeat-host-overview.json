@@ -118,7 +118,7 @@
                         "time_field": "@timestamp", 
                         "type": "timeseries"
                     }, 
-                    "title": "Mericbeat: Network Traffic (Packets)", 
+                    "title": "Metricbeat: Network Traffic (Packets)", 
                     "type": "metrics"
                 }
             }, 
@@ -349,7 +349,7 @@
                         "time_field": "@timestamp", 
                         "type": "timeseries"
                     }, 
-                    "title": "Mericbeat: Network Traffic (Bytes)", 
+                    "title": "Metricbeat: Network Traffic (Bytes)", 
                     "type": "metrics"
                 }
             }, 

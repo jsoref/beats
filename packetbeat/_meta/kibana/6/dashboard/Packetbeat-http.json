@@ -418,7 +418,7 @@
                     "listeners": {}, 
                     "params": {
                         "perPage": 10, 
-                        "showMeticsAtAllLevels": false, 
+                        "showMetricsAtAllLevels": false, 
                         "showPartialRows": false
                     }, 
                     "title": "Top 10 HTTP requests", 

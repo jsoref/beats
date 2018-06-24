@@ -90,7 +90,7 @@
                     "listeners": {}, 
                     "params": {
                         "perPage": 8, 
-                        "showMeticsAtAllLevels": false, 
+                        "showMetricsAtAllLevels": false, 
                         "showPartialRows": false, 
                         "showTotal": true, 
                         "sort": {

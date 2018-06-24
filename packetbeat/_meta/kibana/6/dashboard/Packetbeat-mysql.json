@@ -247,7 +247,7 @@
                     "listeners": {}, 
                     "params": {
                         "perPage": 10, 
-                        "showMeticsAtAllLevels": false, 
+                        "showMetricsAtAllLevels": false, 
                         "showPartialRows": false
                     }, 
                     "title": "Most frequent MySQL queries", 
@@ -294,7 +294,7 @@
                     "listeners": {}, 
                     "params": {
                         "perPage": 10, 
-                        "showMeticsAtAllLevels": false, 
+                        "showMetricsAtAllLevels": false, 
                         "showPartialRows": false
                     }, 
                     "type": "table"

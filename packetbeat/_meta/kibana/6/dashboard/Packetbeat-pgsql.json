@@ -446,7 +446,7 @@
                     "listeners": {}, 
                     "params": {
                         "perPage": 10, 
-                        "showMeticsAtAllLevels": false, 
+                        "showMetricsAtAllLevels": false, 
                         "showPartialRows": false
                     }, 
                     "title": "Most frequent PgSQL queries", 
@@ -493,7 +493,7 @@
                     "listeners": {}, 
                     "params": {
                         "perPage": 10, 
-                        "showMeticsAtAllLevels": false, 
+                        "showMetricsAtAllLevels": false, 
                         "showPartialRows": false
                     }, 
                     "type": "table"

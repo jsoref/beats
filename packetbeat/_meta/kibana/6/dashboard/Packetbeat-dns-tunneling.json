@@ -126,7 +126,7 @@
                     "listeners": {}, 
                     "params": {
                         "perPage": 10, 
-                        "showMeticsAtAllLevels": false, 
+                        "showMetricsAtAllLevels": false, 
                         "showPartialRows": false, 
                         "showTotal": false, 
                         "sort": {
@@ -288,7 +288,7 @@
                     "listeners": {}, 
                     "params": {
                         "perPage": 10, 
-                        "showMeticsAtAllLevels": false, 
+                        "showMetricsAtAllLevels": false, 
                         "showPartialRows": false, 
                         "showTotal": false, 
                         "sort": {

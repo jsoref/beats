@@ -104,7 +104,7 @@
                     ], 
                     "params": {
                         "perPage": 10, 
-                        "showMeticsAtAllLevels": false, 
+                        "showMetricsAtAllLevels": false, 
                         "showPartialRows": false, 
                         "showTotal": false, 
                         "sort": {
@@ -198,7 +198,7 @@
                     ], 
                     "params": {
                         "perPage": 10, 
-                        "showMeticsAtAllLevels": false, 
+                        "showMetricsAtAllLevels": false, 
                         "showPartialRows": false, 
                         "showTotal": false, 
                         "sort": {
@@ -288,7 +288,7 @@
                     ], 
                     "params": {
                         "perPage": 10, 
-                        "showMeticsAtAllLevels": false, 
+                        "showMetricsAtAllLevels": false, 
                         "showPartialRows": false, 
                         "showTotal": false, 
                         "sort": {

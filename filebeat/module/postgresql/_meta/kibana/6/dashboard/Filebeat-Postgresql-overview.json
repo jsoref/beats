@@ -45,7 +45,7 @@
                     ], 
                     "params": {
                         "perPage": 10, 
-                        "showMeticsAtAllLevels": false, 
+                        "showMetricsAtAllLevels": false, 
                         "showPartialRows": false, 
                         "showTotal": false, 
                         "sort": {
