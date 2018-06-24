@@ -47,7 +47,7 @@
 [2018-06-13T07:44:24.343+0000][32376][gc,heap      ] GC(0) ParNew: 279616K->17562K(314560K)
 [2018-06-13T07:44:24.343+0000][32376][gc,heap      ] GC(0) CMS: 0K->0K(699072K)
 [2018-06-13T07:44:24.343+0000][32376][gc,metaspace ] GC(0) Metaspace: 22819K->22819K(1071104K)
-[2018-06-13T07:44:24.343+0000][32376][gc           ] GC(0) Pause Young (Allocation FailurGe) 273M->17M(989M) 13,344ms
+[2018-06-13T07:44:24.343+0000][32376][gc           ] GC(0) Pause Young (Allocation Failure) 273M->17M(989M) 13,344ms
 [2018-06-13T07:44:24.343+0000][32376][gc,cpu       ] GC(0) User=0,07s Sys=0,00s Real=0,01s
 [2018-06-13T07:44:24.343+0000][32376][safepoint    ] Total time for which application threads were stopped: 0,0135152 seconds, Stopping threads took: 0,0000320 seconds
 [2018-06-13T07:44:24.344+0000][32376][safepoint    ] Application time: 0,0000687 seconds
