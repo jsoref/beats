@@ -13139,7 +13139,7 @@ Total number of connections rejected.
 --
 type: long
 
-Total number of commands preocessed.
+Total number of commands processed.
 
 --
 
