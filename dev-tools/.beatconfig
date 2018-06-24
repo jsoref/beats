@@ -1,4 +1,4 @@
 packetbeat-/packetbeat-
 filebeat-/filebeat-
-winlogonbeat-/winlogonbeat-
+winlogbeat-/winlogbeat-
 logstash-/logstash-
