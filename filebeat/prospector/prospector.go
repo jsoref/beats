@@ -21,11 +21,11 @@ package prospector
 
 import "github.com/elastic/beats/filebeat/input"
 
-// Prospectorer defines how to read new data
+// Prospector defines how to read new data
 // Deprecated: See input.input
-type Prospectorer = input.Input
+type Prospector = input.Input
 
-// Runner encapsulate the lifecycle of a prospectorer
+// Runner encapsulate the lifecycle of a prospector
 // Deprecated: See input.Runner
 type Runner = input.Runner
 
