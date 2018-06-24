@@ -61,7 +61,7 @@
                                     }
                                 ], 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "system.network.name", 
@@ -107,7 +107,7 @@
                                     }
                                 ], 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "system.network.name", 
@@ -171,7 +171,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }, 
@@ -192,7 +192,7 @@
                                     }
                                 ], 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }, 
@@ -213,7 +213,7 @@
                                     }
                                 ], 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }
@@ -292,7 +292,7 @@
                                     }
                                 ], 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "system.network.name", 
@@ -338,7 +338,7 @@
                                     }
                                 ], 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "system.network.name", 
@@ -402,7 +402,7 @@
                                     }
                                 ], 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "stacked"
                             }, 
@@ -445,7 +445,7 @@
                                     }
                                 ], 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "stacked"
                             }, 
@@ -466,7 +466,7 @@
                                     }
                                 ], 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "stacked"
                             }
@@ -538,7 +538,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "system.process.name", 
@@ -624,7 +624,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "system.process.name", 
@@ -689,7 +689,7 @@
                                     }
                                 ], 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "stacked"
                             }, 
@@ -710,7 +710,7 @@
                                     }
                                 ], 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "stacked"
                             }, 
@@ -731,7 +731,7 @@
                                     }
                                 ], 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "stacked"
                             }, 
@@ -752,7 +752,7 @@
                                     }
                                 ], 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "stacked"
                             }, 
@@ -773,7 +773,7 @@
                                     }
                                 ], 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "stacked"
                             }, 
@@ -794,7 +794,7 @@
                                     }
                                 ], 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "stacked"
                             }
@@ -870,7 +870,7 @@
                                     }
                                 ], 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none", 
                                 "value_template": "{{value}}/s"
@@ -910,7 +910,7 @@
                                     }
                                 ], 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none", 
                                 "value_template": "{{value}}/s"
@@ -987,7 +987,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }
@@ -1107,7 +1107,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }
@@ -1195,7 +1195,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }
@@ -1281,7 +1281,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "system.network.name", 
@@ -1323,7 +1323,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "system.network.name", 
@@ -1411,7 +1411,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "system.network.name", 
@@ -1453,7 +1453,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "system.network.name", 
@@ -1539,7 +1539,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "system.filesystem.mount_point"
@@ -1662,7 +1662,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }
@@ -1728,7 +1728,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }, 
@@ -1749,7 +1749,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }
@@ -1858,7 +1858,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }
@@ -1926,7 +1926,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }, 
@@ -1947,7 +1947,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }
@@ -2015,7 +2015,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "system.network.name", 
@@ -2085,7 +2085,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "system.network.name", 

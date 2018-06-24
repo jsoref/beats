@@ -246,7 +246,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_filters": [
                                     {
                                         "color": "#68BC00", 
@@ -331,7 +331,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "nginx.access.url", 
@@ -387,7 +387,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "nginx.error.level", 
@@ -444,7 +444,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_filters": [
                                     {
                                         "color": "#68BC00", 

@@ -42,7 +42,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }
@@ -114,7 +114,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_color_mode": "gradient", 
                                 "split_mode": "everything", 
                                 "stacked": "none"
@@ -142,7 +142,7 @@
                                     }
                                 ], 
                                 "point_size": "3", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }
@@ -203,7 +203,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }
@@ -257,7 +257,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }
@@ -312,7 +312,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }, 
@@ -333,7 +333,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }, 
@@ -354,7 +354,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none"
                             }

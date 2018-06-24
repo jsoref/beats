@@ -46,7 +46,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_filters": [
                                     {
                                         "color": "#68BC00", 
@@ -135,7 +135,7 @@
                                 ], 
                                 "override_index_pattern": 0, 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "series_interval": "10s", 
                                 "series_time_field": "@timestamp", 
                                 "split_mode": "terms", 
@@ -176,7 +176,7 @@
                                 ], 
                                 "override_index_pattern": 0, 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "series_interval": "10s", 
                                 "series_time_field": "@timestamp", 
                                 "split_mode": "terms", 
@@ -262,7 +262,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none", 
                                 "terms_field": "kubernetes.deployment.name"
@@ -345,7 +345,7 @@
                                 ], 
                                 "override_index_pattern": 1, 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "series_interval": "10s", 
                                 "series_time_field": "@timestamp", 
                                 "split_mode": "everything", 
@@ -439,7 +439,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "kubernetes.node.name", 
@@ -475,7 +475,7 @@
                                     }
                                 ], 
                                 "point_size": "0", 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "kubernetes.node.name", 
@@ -571,7 +571,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "stacked", 
                                 "terms_field": "kubernetes.node.name", 
@@ -666,7 +666,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "stacked", 
                                 "terms_field": "kubernetes.node.name", 
@@ -749,7 +749,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "everything", 
                                 "stacked": "none", 
                                 "terms_field": "kubernetes.deployment.name"
@@ -830,7 +830,7 @@
                                 "offset_time": "", 
                                 "override_index_pattern": 0, 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "kubernetes.pod.name", 
@@ -914,7 +914,7 @@
                                 "offset_time": "", 
                                 "override_index_pattern": 0, 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_mode": "terms", 
                                 "stacked": "none", 
                                 "terms_field": "kubernetes.pod.name", 
@@ -1001,7 +1001,7 @@
                                 ], 
                                 "override_index_pattern": 1, 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "series_interval": "10s", 
                                 "split_mode": "everything", 
                                 "stacked": "none"
@@ -1066,7 +1066,7 @@
                                     }
                                 ], 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "split_filters": [
                                     {
                                         "color": "#68BC00", 
@@ -1157,7 +1157,7 @@
                                 ], 
                                 "override_index_pattern": 1, 
                                 "point_size": 1, 
-                                "seperate_axis": 0, 
+                                "separate_axis": 0, 
                                 "series_index_pattern": "*", 
                                 "series_interval": "10s", 
                                 "series_time_field": "@timestamp", 
